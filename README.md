@@ -1,7 +1,7 @@
 # 🌌 WELCOME TO THE DIGITAL MULTIVERSE 🌌
 
 <div align="center">
-  
+
 ```
 ██████╗ ███████╗███████╗████████╗██╗███╗   ██╗██╗   ██╗
 ██╔══██╗██╔════╝██╔════╝╚══██╔══╝██║████╗  ██║╚██╗ ██╔╝
@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Crafting+Tomorrow's+Digital+Reality+Today+✨)](https://git.io/typing-svg)
 
 </div>
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  
+
 ## 🎯 **MISSION CONTROL** 🎯
 
 <img src="https://komarev.com/ghpvc/?username=eliudmichira&label=👁️+VISITORS&color=00f5ff&style=for-the-badge" alt="Profile views" />
@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  
+
 ## 🔥 **THE LEGEND BEGINS** 🔥
 
 </div>
@@ -78,7 +78,7 @@ const eliudMichira = {
 ---
 
 <div align="center">
-  
+
 ## 🛠️ **ARSENAL OF DIGITAL WEAPONS** 🛠️
 
 ### 🔥 **FRONTEND MASTERY**
@@ -114,7 +114,7 @@ const eliudMichira = {
 ---
 
 <div align="center">
-  
+
 ## 🎨 **PORTFOLIO OF DIGITAL MASTERPIECES** 🎨
 
 </div>
@@ -177,7 +177,7 @@ const eliudMichira = {
 ---
 
 <div align="center">
-  
+
 ## 💫 **WHAT MAKES ME LEGENDARY** 💫
 
 </div>
@@ -214,7 +214,7 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 📊 **BATTLE STATISTICS** 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=eliudmichira&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff6b6b&text_color=ffffff" alt="GitHub Stats" />
@@ -228,7 +228,7 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 🎯 **CURRENT MISSION** 🎯
 
 ```
@@ -247,13 +247,11 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 🌟 **TESTIMONIALS FROM THE DIGITAL REALM** 🌟
 
-> *"Eliud doesn't just code—he creates digital poetry."* - **Anonymous Senior Dev** 🎭
-> 
-> *"Watching him work is like watching a magician, but the magic is real."* - **Project Manager** 🎪
-> 
+> *"Eliud doesn't just code—he creates digital poetry."* - **Anonymous Senior Dev** 🎭  
+> *"Watching him work is like watching a magician, but the magic is real."* - **Project Manager** 🎪  
 > *"He turns caffeine into code and ideas into reality."* - **Coffee Machine** ☕
 
 </div>
@@ -261,7 +259,7 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 🎮 **ACHIEVEMENT UNLOCKED** 🎮
 
 <img src="https://img.shields.io/badge/🏆_Code_Warrior-Mastered_Full_Stack-gold?style=for-the-badge"/>
@@ -275,7 +273,7 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 🌈 **CONNECT WITH THE LEGEND** 🌈
 
 <a href="https://eliudsamwel.dev">
@@ -296,7 +294,7 @@ Complex challenges? Bring them on! I turn "impossible" into "when do you need it
 ---
 
 <div align="center">
-  
+
 ## 🚀 **LAUNCH SEQUENCE INITIATED** 🚀
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="rocket launch" />
@@ -316,7 +314,7 @@ Whether you're building the next unicorn startup, revolutionizing an industry, o
 ---
 
 <div align="center">
-  
+
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
