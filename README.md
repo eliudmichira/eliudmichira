@@ -1,17 +1,45 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22A7F0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eliud+Michira+%F0%9F%91%8B;React+Wizard+%7C+Blockchain+Builder+%7C+AI+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eliudmichira&label=Profile%20views&color=22a7f0&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/eliudmichira?label=Followers&style=flat&color=22a7f0" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/eliudmichira?label=GitHub%20Stars&style=flat&color=22a7f0" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/AI-ffea00?style=flat&logo=python&logoColor=white" alt="AI" />
+</p>
+
+---
+
 # 🚀 Eliud Michira
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22A7F0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eliud+Michira+%F0%9F%91%8B;React+Wizard+%7C+Blockchain+Builder+%7C+AI+Explorer" alt="Typing SVG" />
-</div>
+I'm a code alchemist blending React wizardry, blockchain experiments, and AI sparks to craft futuristic dashboards and web products. Whether it’s building a secure voting system on the blockchain, a fintech dashboard that handles real-time data, or an e-commerce engine, I turn wild ideas into pixel-perfect, production-ready magic.
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-ffea00?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🚦 Featured Projects
 
-I’m a code alchemist blending React wizardry, blockchain experiments, and AI sparks to craft futuristic dashboards and web products. Whether it’s building a secure voting system on the blockchain, a fintech dashboard that handles real-time data, or an e-commerce engine, I turn wild ideas into pixel-perfect, production-ready magic.
+| 🚧 Project                    | 🚀 Tech         | 🌟 What’s Cool?                                                        |
+|-------------------------------|-----------------|-----------------------------------------------------------------------|
+| [SoundSwapp](https://github.com/eliudmichira/SoundSwapp)             | TypeScript      | Modern music swap platform with real-time UI.                         |
+| [Blockchain Voting System](https://github.com/eliudmichira/Blockchain-Voting-System) | JavaScript, Blockchain | Trustworthy, tamper-proof online voting.                              |
+| [conison-commerce-hub](https://github.com/eliudmichira/conison-commerce-hub)       | JS, E-commerce  | Fast, scalable commerce backend & dashboard.                          |
+| [eliudsamwel.dev](https://github.com/eliudmichira/eliudsamwel.dev)                 | TypeScript, Next.js | My digital playground & portfolio.                                    |
 
 ---
-
 ## 💫 What Makes Me Stand Out?
 
 - 🪄 **React Aficionado:** I don’t just use React—I bend it to my will, for blazing-fast dashboards and snappy UIs.
